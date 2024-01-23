@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+button {
+    background-color: green;
+    outline: none;
+    border: none;
+    padding: 15px 20px;
+    font-size: 15px;
+    color: #fff;
+    cursor: pointer;
+  }
+  h2,
+  p {
+    font-family: "Roboto", sans-serif;
+  }
+  .modal{
+    padding: 20px;
+  }
+  
